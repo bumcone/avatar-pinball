@@ -123,7 +123,7 @@
 
 #### watone
 
-![watone](https://img.dafont.com/preview.php?text=QUICK+BROWN+FOX+PREVIEW&ttf=watone0&ext=1&size=54&psize=l&y=56 "watone")
+![watone](https://img.dafont.com/preview.php?text=Avatar+Quick+Brown+Fox+Preview&ttf=watone0&ext=1&size=54&psize=l&y=56 "watone")
 
 #### webrush
 
