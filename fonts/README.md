@@ -7,7 +7,7 @@
 - https://www.en.netfontes.com.br/view/herculanum/
 - License: Personal Use
 
-![herculanum](herculanum.preview.png "herculanum")
+![herculanum](herculanum.PERSONUSE.preview.png "herculanum")
 
 ### Alternatives
 
@@ -21,7 +21,7 @@
 - https://www.dafont.com/brushstrike.font
 - License: CCBYNC
 
-![brushstrike](brushstrike.preview.png "brushstrike")
+![brushstrike](brushstrike.CCBYNC.preview.png "brushstrike")
 
 ### Alternatives
 
