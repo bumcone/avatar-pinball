@@ -2,12 +2,28 @@
 
 ## Main font
 
-- Herculanum: https://www.en.netfontes.com.br/view/herculanum/
+### Herculanum
+
+- https://www.en.netfontes.com.br/view/herculanum/
+- License: Personal Use
+
+![herculanum](herculanum.preview.png "herculanum")
+
+### Alternatives
+
+- ?
 
 -----
 ## Brush font
 
-### Choices
+### Brushstrike
+
+- https://www.dafont.com/brushstrike.font
+- License: CCBYNC
+
+![brushstrike](brushstrike.preview.png "brushstrike")
+
+### Alternatives
 
 #### bafora
 
@@ -23,7 +39,6 @@
 
 #### brushstrike
 
-![brushstrike](https://img.dafont.com/preview.php?text=Avatar+Quick+Brown+Fox+Preview&ttf=brushstrike0&ext=1&size=47&psize=l&y=48 "brushstrike")
 
 #### crack-2
 
