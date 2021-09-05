@@ -1,6 +1,6 @@
 # Avatar - The Last Airbender (pinball)
 
-![banner](banner.png "banner")
+![banner](banner.png "Avatar - The Last Airbender (pinball)")
 
 -----
 ## Introduction
@@ -17,6 +17,10 @@ This repository tracks the over-arching project as a whole.
 ### Fonts
 
 - [Font details](resources/fonts/)
+
+### Software
+
+- [MPF](https://github.com/bumcone/atla-computer)
 
 -----
 ## Credits
