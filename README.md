@@ -20,7 +20,14 @@ This repository tracks the over-arching project as a whole.
 
 ### Software
 
-- [MPF](https://github.com/bumcone/atla-computer)
+- [ATLA Computer - backend](https://github.com/bumcone/atla-computer)
+  - powered by [MPF](https://github.com/bumcone/atla-computer-mpf)
+- ATLA Computer - media controller
+  - powered by [MPF (MC)](https://github.com/bumcone/atla-computer-mpf-mc)
+- ATLA Hardware Controller(s)
+  - powered by [OpenPinball Project](https://github.com/bumcone/atla-controller-opp)
+
+
 
 -----
 ## Credits
@@ -47,6 +54,7 @@ This repository tracks the over-arching project as a whole.
 ### Open Pinball Project
 
 - Circuit Design
+- Programming
 
 -----
 [//]: # ( vim: set ts=4 sw=4 et cindent tw=80 ai si syn=markdown ft=markdown: )
