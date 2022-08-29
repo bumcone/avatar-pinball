@@ -47,6 +47,10 @@ This repository tracks the over-arching project as a whole.
 - Interface Design
 - Rules
 
+### Mini Krayon
+
+- Layout
+
 ### MPF Community
 
 - Programming
