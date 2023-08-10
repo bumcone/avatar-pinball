@@ -27,7 +27,14 @@ This repository tracks the over-arching project as a whole.
 - ATLA Hardware Controller(s)
   - powered by [OpenPinball Project](https://github.com/bumcone/atla-controller-opp)
 
+### Hardware
 
+- ATLA Hardware Controller(s)
+  - OpenPinball Project
+- Custom trough transmitter board (A-18617)
+  - https://github.com/bumcone/pinball_trough_transmitter.A-18617
+- Custom trough receiver board (A-18618)
+  - https://github.com/bumcone/pinball_trough_receiver.A-18618
 
 -----
 ## Credits
